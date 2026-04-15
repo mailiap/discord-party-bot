@@ -66,8 +66,8 @@ If you want to run the bot yourself:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/mailiap/your-repo.git
-cd your-repo
+git clone https://github.com/mailiap/discord-party-bot.git
+cd discord-party-bot
 ```
 
 ### 2. Install dependencies
