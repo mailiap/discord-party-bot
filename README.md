@@ -77,10 +77,10 @@ npm install
 
 ### 3. Create `.env` file
 ```env
-DISCORD_BOT_TOKEN=your_bot_token
-DISCORD_PUBLIC_KEY=your_public_key
-APP_ID=your_app_id
-DATABASE_URL=your_database_url
+DISCORD_BOT_TOKEN='your_bot_token'
+DISCORD_PUBLIC_KEY='your_public_key'
+APP_ID='your_app_id'
+DATABASE_URL='your_database_url'
 ```
 
 ### 4. Register commands
