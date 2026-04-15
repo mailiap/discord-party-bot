@@ -75,13 +75,14 @@ cd discord-party-bot
 npm install
 ```
 
-### 3. Create `.env` file
+### 3. Edit `.env-example` file
 ```env
 DISCORD_BOT_TOKEN='your_bot_token'
 DISCORD_PUBLIC_KEY='your_public_key'
 APP_ID='your_app_id'
 DATABASE_URL='your_database_url'
 ```
+make sure to rename `.env-example` to `.env`
 
 ### 4. Register commands
 ```bash
